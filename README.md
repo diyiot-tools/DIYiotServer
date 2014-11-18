@@ -1,4 +1,5 @@
 # DIYiotServer
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/diyiot-tools/DIYiotServer?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 ## Σκοπός (Greek, English follows)
 
